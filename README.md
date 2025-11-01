@@ -51,7 +51,7 @@ plt.axis("off")
 plt.show()
 ```
 
-OUPUT
+## OUPUT
 <img width="752" height="279" alt="image" src="https://github.com/user-attachments/assets/9a3ad644-0545-45fc-9090-27fecb1eb7a6" />
 
 ii) Using Weighted Averaging Filter
@@ -63,7 +63,7 @@ plt.title("Weighted Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
-OUPUT
+## OUPUT
 <img width="694" height="482" alt="image" src="https://github.com/user-attachments/assets/467653b3-2ff6-4790-8d3b-9b21fe1acfe7" />
 
 iii) Using Gaussian Filter
@@ -76,7 +76,7 @@ plt.title("Gaussian Blur")
 plt.axis("off")
 plt.show()
 ```
-OUPUT
+## OUPUT
 <img width="653" height="465" alt="image" src="https://github.com/user-attachments/assets/67c53566-6cae-468f-81b3-1a416a5279b9" />
 
 iv)Using Median Filter
@@ -87,7 +87,7 @@ plt.title("Median Blur")
 plt.axis("off")
 plt.show()
 ```
-OUPUT
+## OUPUT
 <img width="523" height="376" alt="image" src="https://github.com/user-attachments/assets/cf081f2e-b6e4-4d24-b984-3634a552247a" />
 
 ### 2. Sharpening Filters
@@ -100,7 +100,7 @@ plt.title("Laplacian Kernel")
 plt.axis("off")
 plt.show()
 ```
-OUPUT
+## OUPUT
 <img width="534" height="378" alt="image" src="https://github.com/user-attachments/assets/bf97b630-48f3-44c4-a17b-11f8605a6845" />
 
 ii) Using Laplacian Operator
@@ -112,7 +112,7 @@ plt.title("Laplacian Operator")
 plt.axis("off")
 plt.show()
 ```
-OUPUT
+## OUPUT
 <img width="512" height="383" alt="image" src="https://github.com/user-attachments/assets/c94f23c4-0bd8-4603-877d-f3cce8f66fb7" />
 
 
